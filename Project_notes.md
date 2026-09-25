@@ -1,6 +1,7 @@
 # BookStore API Progress
 
 ## Completed
+- Setting up the workspace and configuration
 - JWT Authentication
 - Role Based Authorization
 - Book CRUD Operations
