@@ -11,7 +11,7 @@ Spring*Boot REST API with:
 - Swagger/OpenAPI
 - MySQL
 
-## T*chnologies
+## Technologies
 
 - Java 21
 - Spring Boo*
